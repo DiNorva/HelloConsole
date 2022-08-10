@@ -5,3 +5,12 @@
 7 -> нет
 */
 
+int a = 7;
+if(a % 2 == 0)
+{
+    Console.WriteLine("число a - четное");
+}
+else
+{
+    Console.WriteLine("число a - нечетное");
+}
